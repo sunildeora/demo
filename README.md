@@ -1,2 +1,3 @@
 # demo
-this is my first repo.
+this is demo for git and github class.
+
